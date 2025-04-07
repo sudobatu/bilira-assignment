@@ -1,0 +1,8 @@
+websockets
+redis>=4.2
+motor
+asyncio
+python-dotenv
+httpx
+aiohttp
+prometheus_client
